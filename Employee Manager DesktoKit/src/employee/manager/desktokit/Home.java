@@ -1,5 +1,4 @@
-package employee.management.system;
-
+package employee.manager.desktokit;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -19,8 +18,8 @@ public class Home extends JFrame implements ActionListener{
         image.setBounds(0, 0, 1120, 630);
         add(image);
         
-        JLabel heading = new JLabel("Employee Management System");
-        heading.setBounds(620, 20, 400, 40);
+        JLabel heading = new JLabel("EMPLOYEE MANAGER DESKTOKIT");
+        heading.setBounds(620, 20, 450, 40);
         heading.setFont(new Font("Raleway", Font.BOLD, 25));
         image.add(heading);
         

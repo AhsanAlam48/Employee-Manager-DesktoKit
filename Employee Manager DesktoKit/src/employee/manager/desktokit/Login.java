@@ -1,5 +1,4 @@
-package employee.management.system;
-
+package employee.manager.desktokit;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,4 @@
-package employee.management.system;
+package employee.manager.desktokit;
 
 import javax.swing.*;
 import java.awt.*;
@@ -11,7 +11,7 @@ public class Splash extends JFrame implements ActionListener {
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         
-        JLabel heading = new JLabel("EMPLOYEE MANAGEMENT SYSTEM");
+        JLabel heading = new JLabel("EMPLOYEE MANAGER DESKTOKIT");
         heading.setBounds(80, 30, 1200, 60);
         heading.setFont(new Font("serif", Font.PLAIN, 60));
         heading.setForeground(Color.RED);

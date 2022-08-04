@@ -1,5 +1,4 @@
-package employee.management.system;
-
+package employee.manager.desktokit;
 import java.sql.*;
 
 public class Conn {
